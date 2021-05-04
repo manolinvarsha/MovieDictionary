@@ -242,14 +242,5 @@ namespace CollectionsProject
                 }
             } while (choice != 8) ;
         }
-
-
-
-
-        //static void Main(String[] args)
-        //{
-        // new ManageMovies().PrintMenu();
-        // Console.ReadKey();
-        // }
     }
 }
